@@ -1,4 +1,4 @@
-<h1 align="center"style="background:green;">Hi 👋, I'm Jahangir Alam</h1>
+<h1 align="center"style="background-color:green;">Hi 👋, I'm Jahangir Alam</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alam1678&label=Profile%20views&color=0e75b6&style=flat" alt="alam1678" /> </p>
